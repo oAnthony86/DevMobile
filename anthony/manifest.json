@@ -1,0 +1,16 @@
+{
+    "name": "NASA",
+    "short_name": "nasa",
+    "theme_color": "#2a0044",
+    "background_color": "#2a0044",
+    "display": "standalone",
+    "start_url": "/",
+    "scope": ".",  
+    "icons": [
+      {
+        "src": "icons/nasa-sede.jpg",
+        "sizes": "165x165",
+        "type": "image/png"
+      }
+    ]
+  }
