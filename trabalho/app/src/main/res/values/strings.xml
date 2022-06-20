@@ -1,7 +1,6 @@
 <resources>
-    <string name="app_name">TAMOJUNTO FAMILIA</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="pais_activity_formulario">FormularioPaisesActivity</string>
-    <string name="cidade_activity_formulario">FormularioCidadesActivity</string>
-    <string name="estado_activity_formulario">FormularioEstadosActivity</string>
+    <string name="app_name">Times</string>
+    <string name="app_title_name">Times</string>
+    <string name="cadastro_time_title">Cadastro</string>
+    <string name="btn_cadastro">Cadastrar</string>
 </resources>
